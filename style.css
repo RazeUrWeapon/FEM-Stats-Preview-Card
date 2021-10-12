@@ -47,7 +47,7 @@ a {
     border-radius: 0.5rem;
 }
 
-.card__image {
+.card__image {-
     background-color: var(--accent);
     border-radius: 0.5rem 0.5rem 0 0;
 }
